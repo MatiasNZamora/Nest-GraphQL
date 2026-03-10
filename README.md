@@ -168,4 +168,5 @@ Desde allí podrás ejecutar queries y mutations.
 
 Este proyecto forma parte de mi proceso de especialización en backend con NestJS, explorando la construcción de APIs modernas utilizando GraphQL, autenticación segura y arquitectura escalable.
 
-<p align="center"> Desarrollado con ❤️ usando NestJS y GraphQL </p> ```
+```
+<p align="center"> Desarrollado con ❤️ usando NestJS y GraphQL </p> 
